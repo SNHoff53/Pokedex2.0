@@ -6,10 +6,10 @@
 
 Members: 
 
-Xiaojie Liu
-Max Sheffield
-Stephanie Hoffman
-Kyle LaMont
+* Xiaojie Liu
+* Max Sheffield
+* Stephanie Hoffman
+* Kyle LaMont
 
 ## Overview
 
@@ -17,8 +17,12 @@ Our project is a play on the classic Pokedex from the Pokemon games. It would fe
 
 ## Links
 
-*[CSS](assets/css/style.css)
+* [CSS](assets/css/style.css)
 
-*[Javascript](assets/javascript)
+* [Javascript](assets/javascript)
 
-*[Pokedex 2.0](https://metacmm.github.io/Pokedex2.0/)
+* [Pokedex 2.0](https://metacmm.github.io/Pokedex2.0/)
+
+## Demo
+
+![Pokedex2.0](pokedex-recording.gif)
