@@ -21,4 +21,4 @@ Our project is a play on the classic Pokedex from the Pokemon games. It would fe
 
 *[Javascript](assets/javascript)
 
-*[Pokedex 2.0](metacmm.github.io/Pokedex2.0/)
+*[Pokedex 2.0](https://metacmm.github.io/Pokedex2.0/)
