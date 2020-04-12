@@ -5,6 +5,10 @@ Project created for UW Code Camp
 
 Our project is a play on the classic Pokedex from the Pokemon games. It would feature a search field where the user can type in the name of a pokemon. It would access an API that would display a variety of features of that particular Pokemon, such as health, attack, defense, as well as an image of the Pokemon. We would then use our second API to pull GIF images of the Pokemon you’ve searched for. It would only return Y - PG-13 gifs, that way it is suitable for all users.
 
+## Technologies: 
+* HTML
+* CSS
+* JavaScript
 
 ## Members: 
 
