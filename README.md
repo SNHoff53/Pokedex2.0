@@ -9,6 +9,7 @@ Our project is a play on the classic Pokedex from the Pokemon games. It would fe
 * HTML
 * CSS
 * JavaScript
+* Bootstrap
 
 ## Members: 
 
